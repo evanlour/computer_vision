@@ -1,0 +1,5 @@
+res/autoencoder_weights.h5
+res/train_cleaned
+res/train
+res/test
+.ipynb_checkpoints
