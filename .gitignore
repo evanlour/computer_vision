@@ -1,5 +1,5 @@
-res/autoencoder_weights.h5
-res/train_cleaned
-res/train
-res/test
-.ipynb_checkpoints
+text_detector/res/autoencoder_weights.h5
+text_detector/res/train_cleaned
+text_detector/res/train
+text_detector/res/test
+text_detector/.ipynb_checkpoints
