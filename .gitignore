@@ -3,3 +3,5 @@ text_detector/res/train_cleaned
 text_detector/res/train
 text_detector/res/test
 text_detector/.ipynb_checkpoints
+panoramic_shot_creator/res/*
+panoramic_shot_creator/.ipynb_checkpoints
