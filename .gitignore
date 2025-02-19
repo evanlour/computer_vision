@@ -5,3 +5,5 @@ text_detector/res/test
 text_detector/.ipynb_checkpoints
 panoramic_shot_creator/res/*
 panoramic_shot_creator/.ipynb_checkpoints
+bag_of_visual_words_classifier/res
+bag_of_visual_words_classifier/.ipynb_checkpoints
