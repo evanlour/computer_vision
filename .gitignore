@@ -7,3 +7,7 @@ panoramic_shot_creator/res/*
 panoramic_shot_creator/.ipynb_checkpoints
 bag_of_visual_words_classifier/res
 bag_of_visual_words_classifier/.ipynb_checkpoints
+cnn_classifier/res
+cnn_classifier/.ipynb_checkpoints
+cnn_classifier/pretrainde_model_weights.hdf5
+cnn_classifier/custom_model_weights.hdf5
